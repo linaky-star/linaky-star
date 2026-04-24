@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👩‍💻 Lina Vásquez | Data Analyst en formación
 
-<!--
-**linaky-star/linaky-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! 👋  
+💡 Soy Analista de Datos en formación, apasionada por transformar datos en información útil para la toma de decisiones.  
+📚 Actualmente estoy fortaleciendo mis habilidades en análisis, visualización y manejo de datos.  
+🚀 En constante aprendizaje y desarrollo de proyectos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- 🐍 Python (Pandas)
+- 🗄️ SQL (Consultas, JOINs, subqueries)
+- 📈 Excel avanzado
+- 🧹 Limpieza y transformación de datos
+- 📉 Análisis exploratorio de datos (EDA)
+
+---
+
+## 📊 Proyectos Destacados
+
+- 📊 Análisis de bonos de carbono → [https://streak-stats.demolab.com?user=TUUSUARIO&theme=default](https://github.com/linaky-star/Benefits]
+- 🌿 Biodiversidad Matavén → [https://github.com/linaky-star/Biodiversidad_mataven]
+
+---
+## 📬 Contacto
+
+- 💼 LinkedIn: https://www.linkedin.com/in/lina-marcela-vasquez-mora-383a461b1/ 
+- 📧 Email: linaky@icloud.com  
+
+---
+
+✨ *Siempre aprendiendo y creciendo en el mundo de los datos.*
